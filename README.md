@@ -8,6 +8,7 @@
 #### Programming basics
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
   * [Russian e-book](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
+- [x] [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 
 #### Functional programming and Category theory
 - [ ] [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)cd 
@@ -18,6 +19,7 @@
   * [ ] [Part 4](https://medium.com/p/18fbe3ea9e49)
   * [ ] [Part 5](https://medium.com/p/c70adc9cf56a)
   * [ ] [Part 6](https://medium.com/p/db502830403)
+- [ ] [Category Theory for programmers](https://henrychern.wordpress.com/2017/07/17/httpsbartoszmilewski-com20141028category-theory-for-programmers-the-preface/) by Bartosz Milewski
 - [ ] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovaca
 - [ ] [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
 - [ ] [Write You a Haskell](http://dev.stephendiehl.com/fun/) by Stephen Diehl
@@ -40,8 +42,8 @@
 - [x] [XSS Game](https://xss-game.appspot.com/)
 
 #### Discrete mathematics
-- [ ] [Discrete Mathematics for Compuing](https://www.ozon.ru/context/detail/id/7825217/) by Dr Rod Haggarty
+- [ ] [Discrete Mathematics for Computing](https://www.ozon.ru/context/detail/id/7825217/) by Dr Rod Haggarty
 
 #### Ruby
-- [The Ruby Programming Language](https://www.amazon.com/Programming-Language-Flanagan-Yukihiro-Matsumoto/dp/0596101244) by David Flanagan 
-- [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
+- [ ] [The Ruby Programming Language](https://www.amazon.com/Programming-Language-Flanagan-Yukihiro-Matsumoto/dp/0596101244) by David Flanagan 
+- [ ] [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
