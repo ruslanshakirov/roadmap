@@ -11,7 +11,7 @@
 - [x] [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 
 #### Functional programming and Category theory
-- [ ] [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)cd 
+- [ ] [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
 - [ ] [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
   * [x] [Part 1](https://medium.com/p/1f15e387e536)
   * [x] [Part 2](https://medium.com/p/7005682cec4a)
