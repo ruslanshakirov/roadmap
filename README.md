@@ -1,6 +1,5 @@
 ### Reading now
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
-- [The Ruby Programming Language](https://www.amazon.com/Programming-Language-Flanagan-Yukihiro-Matsumoto/dp/0596101244) by David Flanagan Yukihiro Matsumoto
 - [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
 
 ### Programming
@@ -45,5 +44,5 @@
 - [ ] [Discrete Mathematics for Computing](https://www.ozon.ru/context/detail/id/7825217/) by Dr Rod Haggarty
 
 #### Ruby
-- [ ] [The Ruby Programming Language](https://www.amazon.com/Programming-Language-Flanagan-Yukihiro-Matsumoto/dp/0596101244) by David Flanagan 
+- [x] [The Ruby Programming Language](https://www.amazon.com/Programming-Language-Flanagan-Yukihiro-Matsumoto/dp/0596101244) by David Flanagan 
 - [ ] [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
