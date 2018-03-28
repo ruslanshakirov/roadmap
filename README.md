@@ -1,6 +1,7 @@
 ### Reading now
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
 - [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
+- [Ruby Under a Microscope](https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277) by Pat Shaughnessy
 
 ### Programming
 
@@ -35,6 +36,9 @@
 - [ ] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 - [ ] [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
 
+#### SQL
+- [ ] [Mastering PostgreSQL](https://masteringpostgresql.com/)
+
 #### Information [web] security and cryptography
 - [ ] [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 - [ ] [Hacksplaining](https://www.hacksplaining.com/)
@@ -46,3 +50,4 @@
 #### Ruby
 - [x] [The Ruby Programming Language](https://www.amazon.com/Programming-Language-Flanagan-Yukihiro-Matsumoto/dp/0596101244) by David Flanagan 
 - [ ] [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
+- [ ] [Ruby Under a Microscope](https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277) by Pat Shaughnessy
