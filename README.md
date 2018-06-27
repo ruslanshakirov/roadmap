@@ -1,7 +1,5 @@
 ### Reading now
 - [Mastering PostgreSQL](https://masteringpostgresql.com/)
-- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
-- [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
 - [Ruby Under a Microscope](https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277) by Pat Shaughnessy
 
 ### Programming
@@ -50,5 +48,5 @@
 
 #### Ruby
 - [x] [The Ruby Programming Language](https://www.amazon.com/Programming-Language-Flanagan-Yukihiro-Matsumoto/dp/0596101244) by David Flanagan 
-- [ ] [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
+- [x] [Metaprogramming Ruby 2](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129) by Paolo Perrotta
 - [ ] [Ruby Under a Microscope](https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277) by Pat Shaughnessy
